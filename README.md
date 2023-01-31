@@ -11,7 +11,7 @@ Official git repository : https://github.com/tiangolo/full-stack-fastapi-postgre
 ## Installation
 **Optional** :
 
-Replace "myexample" and "myexample.com" by your project name in :
+Replace "myexample" and "myexample.com" with your project name in :
 - .env
 - .gitlab-ci.yml
 - frontend/.env
