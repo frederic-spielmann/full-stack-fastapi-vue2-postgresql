@@ -16,7 +16,6 @@ Replace "myexample" and "myexample.com" by your project name in :
 - .gitlab-ci.yml
 - frontend/.env
 ---
-\
 **Clone the project** : \
 ``git clone https://github.com/frederic-spielmann/full-stack-fastapi-vue2-postgresql.git``
 
@@ -28,7 +27,6 @@ Replace "myexample" and "myexample.com" by your project name in :
 **Make sure the containers are running** : \
 ``docker container ls --all``
 
-**Test** : \
 Open http://localhost/ in your web browser (port 80)  :
 - Login: ``admin@myexample.com``
 - Password: ``password``
