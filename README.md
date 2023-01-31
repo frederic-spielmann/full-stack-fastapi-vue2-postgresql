@@ -79,3 +79,9 @@ pyproject.toml
     sqlalchemy = "^1.4.40"
     pytest = "^7.1.3"
     python-jose = {extras = ["cryptography"], version = "^3.3.0"}
+    
+    
+## Screenshots:
+![screenshot-1](https://user-images.githubusercontent.com/122987231/215741561-d88e4873-bf6f-4db5-b3e0-95cfee40e591.jpg)
+
+![screenshot-2](https://user-images.githubusercontent.com/122987231/215741586-f530c523-4980-4054-a9bc-9b7da5c9d17c.jpg)
